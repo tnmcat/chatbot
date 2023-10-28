@@ -1,0 +1,11 @@
+1. python -m venv venv 
+2. venv\Scripts\activate
+
+3. pip install nltk
+4. pip install numpy
+5. pip install keras
+6. pip install tensorflow
+7. pip install flask
+
+7. python src/trainning.py
+8. python app.py
